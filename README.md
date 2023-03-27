@@ -6,7 +6,7 @@
 
 # <div align="left">It's Soumik Das here!</div>  
 
-- 🔭 I’m currently on a Job hunt for job opportunities in frontend web-development!  
+- 🔭 I’m currently in a Job hunt for job opportunities in frontend web-development!  
   
 
 - 🌱 I’m also doing my BSc in Computer Science from @University of London
