@@ -1,6 +1,5 @@
 <!-- https://profilinator.rishav.dev/ -->
-<div style="background-color: rgb(30 41 59);"><div align="center">
-<img src="https://i.ibb.co/0BDWhSj/ezgif-2-c971def196.gif" align="center" height="" width="100%" />
+<img src="https://i.ibb.co/gmqsLM4/linkdin-bg.jpg" align="center" height="" width="100%" />
 </div>  
   
 
@@ -84,4 +83,4 @@
 <!-- #### <div align="center"> You will find almost all of my projects here with source code! so, feel free to contribute </div> -->
 
 ----
-<div align="center">You can visit my portfolio site for more details <a href="https://www.soumik-das.com/" target="_blank">soumik-das.com</a></div></div>
+<div align="center">You can visit my portfolio site for more details <a href="https://www.soumik-das.com/" target="_blank">soumik-das.com</a></div>
