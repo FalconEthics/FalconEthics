@@ -4,7 +4,7 @@
   
 
 # <div align="left">Hi👋🏻 it's Soumik Das here!</div>
-### "I am front-end web developer from North-East India"  
+### " I am front-end web developer from North-East India "  
 
 - 🔭 I’m currently in a Job hunt for opportunities in frontend web-development!  
   
