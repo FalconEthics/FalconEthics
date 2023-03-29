@@ -3,9 +3,10 @@
 </div>  
   
 
-# <div align="left">It's Soumik Das here!</div>  
+# <div align="left">Hi👋🏻 it's Soumik Das here!</div>
+#### I am front-end web developer from North-East India  
 
-- 🔭 I’m currently in a Job hunt for job opportunities in frontend web-development!  
+- 🔭 I’m currently in a Job hunt for opportunities in frontend web-development!  
   
 
 - 🌱 I’m also doing my BSc in Computer Science from @University of London
