@@ -12,7 +12,7 @@
 - 🌱 I’m also doing my BSc in Computer Science from @University of London
   
 
-- ❓ You will find almost all of my projects here with source code! so, feel free to contribute
+- ❓ You will find almost all of my projects here with source code! so, feel free to judge or contribute
   
 
 - ⚡ btw a fun fact: I am just 19"  
