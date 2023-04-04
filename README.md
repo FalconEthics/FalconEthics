@@ -16,8 +16,7 @@
   
 
 - ⚡ btw a fun fact: I am just 19"  
-  
-<br/>  
+<!-- <br/>  
 
 
 ## My tech stack 
@@ -56,8 +55,12 @@
 
 </td></tr></table>  
 
-<br/>  
+<br/> -->
 
+## Git stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=FalconEthics&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<!-- #### <div align="center"> You will find almost all of my projects here with source code! so, feel free to contribute </div> -->
 
 ## Connect with me  
 <div align="center">
@@ -75,10 +78,5 @@
 </a>  
 </div>  
 
-## Git stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=FalconEthics&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<!-- #### <div align="center"> You will find almost all of my projects here with source code! so, feel free to contribute </div> -->
-
 ----
-<div align="center">You can visit my portfolio site for more details <a href="https://www.soumik-das.com/" target="_blank">soumik-das.com</a></div>
+<div align="center">Or you can visit my portfolio for more details <a href="https://www.soumik-das.com/" target="_blank">soumik-das.com</a></div>
