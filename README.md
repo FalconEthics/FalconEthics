@@ -3,8 +3,8 @@
 </div>  
   
 
-# <div align="left">Hi👋🏻 it's Soumik Das here!</div>
-### " I am front-end web developer from North-East India "  
+# <div align="left">👋🏻 it's Soumik Das here!</div>
+### " I am a front-end web developer from North-East India "  
 
 - 🔭 I’m currently in a Job hunt for opportunities in frontend web-development!  
   
@@ -57,12 +57,13 @@
 
 <br/> -->
 
-## Git stats  
+## GIT STATS  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=FalconEthics&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <!-- #### <div align="center"> You will find almost all of my projects here with source code! so, feel free to contribute </div> -->
 
-## Connect with me  
+<!-- ## Connect with me   -->
+<br>
 <div align="center">
 <a href="https://github.com/FalconEthics" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -79,4 +80,4 @@
 </div>  
 
 ----
-<div align="center">Or you can visit my portfolio for more details <a href="https://www.soumik-das.com/" target="_blank">soumik-das.com</a></div>
+<div align="center">You can visit my portfolio for more details <a href="https://www.soumik-das.com/" target="_blank">soumik-das.com</a></div>
