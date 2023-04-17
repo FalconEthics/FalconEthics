@@ -4,9 +4,9 @@
   
 
 # <div align="left">👋🏻 it's Soumik Das here!</div>
-### " I am a front-end web developer from North-East India "  
+### " I am a full-stack web developer from North-East India "  
 
-- 🔭 I’m currently in a Job hunt for opportunities in frontend web-development!  
+- 🔭 I’m currently in a Job hunt for opportunities in web-development!  
   
 
 - 🌱 I’m also doing my BSc in Computer Science from @University of London
