@@ -6,7 +6,7 @@
 # <div align="left">👋🏻 it's Soumik Das here!</div>
 ### " I am a full-stack web developer from North-East India "  
 
-- 🔭 I’m currently in a Job hunt for opportunities in web-development!  
+- 💼 I’m currently working as a React-Native developer @Tripsy!  
   
 
 - 🌱 I’m also doing my BSc in Computer Science from @University of London
@@ -15,7 +15,7 @@
 - ❓ You will find almost all of my projects here with source code! so, feel free to judge or contribute
   
 
-- ⚡ btw a fun fact: I am just 19"  
+- ⚡ btw a fun fact: I am just 20"  
 <!-- <br/>  
 
 
