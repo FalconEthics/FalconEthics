@@ -4,7 +4,7 @@
   
 
 # <div align="left">👋🏻 it's Soumik Das here!</div>
-### " I am a full-stack web developer from North-East India "  
+### " I am a full-stack developer from North-East India "  
 
 - 💼 I’m currently working as a React-Native developer at Wisedeck Technologies!  
   
