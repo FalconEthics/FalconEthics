@@ -58,7 +58,7 @@
 <br/> -->
 
 ## GIT STATS  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=FalconEthics&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=FalconEthics&show_icons=true&theme=dark" align="center" /></div>  
 
 <!-- #### <div align="center"> You will find almost all of my projects here with source code! so, feel free to contribute </div> -->
 
