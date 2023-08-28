@@ -83,4 +83,4 @@
 </div>  
 
 ----
-<div align="center">You can visit my portfolio for more details <a href="https://www.soumik-das.com/" target="_blank">soumik-das.com</a></div>
+<div align="center">You can visit my portfolio for more details <a href="https://mrsoumikdas.com/" target="_blank">mrsoumikdas.com</a></div>
