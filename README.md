@@ -15,7 +15,7 @@
 - ❓ You will find almost all of my projects here with source code! so, feel free to judge or contribute
   
 
-- ⚡ btw a fun fact: I am just 20"  
+- ⚡ btw a fun fact: You may have seen me in Asian Combat Games 2k17
 <!-- <br/>  
 
 
