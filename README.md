@@ -6,7 +6,7 @@
 # <div align="left">👋🏻 it's Soumik Das here!</div>
 ### " I am a full-stack developer from North-East India "  
 
-- 💼 I’m currently working as a React-Native developer at Wisedeck Technologies!  
+- 💼 I’m currently working as a Full-Stack developer at Wisedeck Technologies!  
   
 
 - 🌱 I’m also doing my BSc in Computer Science from @University of London
