@@ -6,7 +6,7 @@
 # <div align="left">👋🏻 it's Soumik Das here!</div>
 ### " I am a full-stack developer from North-East India "  
 
-- 💼 I’m currently working as a Freelanced Full-Stack developer with clients all around India!  
+- 💼 I’m currently working as a Cross-Platform developer at @Technorishi !  
   
 
 - 🌱 I’m also doing my BSc in Computer Science from @University of London
