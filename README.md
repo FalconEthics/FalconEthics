@@ -4,9 +4,9 @@
   
 
 # <div align="left">👋🏻 it's Soumik Das here!</div>
-### " I am a full-stack developer from North-East India "  
+### " I am a full-stack developer from Bangalore India "  
 
-- 💼 I’m currently working as a Cross-Platform developer at @Technorishi-Consulting-Pvt-Ltd !  
+- 💼 I’m currently working as a Cross-Platform app developer at @Technorishi-Consulting-Pvt-Ltd !  
   
 
 - 🌱 I’m also doing my BSc in Computer Science from @University of London
